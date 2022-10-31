@@ -1,0 +1,10 @@
+Quotes
+    “ (&#8220;) opening quote (instead of ")
+    ” (&#8221;) closing quote (instead of ")
+Apostrophe
+    ’ (&#8217;) apostrophe (instead of ')
+Dashes and Hyphens
+    – (&#8211; or &ndash;) en dash, used for ranges, e.g. “13–15 November” (instead of -)
+    — (&#8212; or &mdash;) em dash, used for change of thought, e.g. “Star Wars is—as everyone knows—amazing.” (instead of -, or --)
+Ellipsis
+    … (&#8230; or &hellip;) horizontal ellipsis, used to indicate an omission or a pause (instead of ...) 

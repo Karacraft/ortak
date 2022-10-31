@@ -1,0 +1,26 @@
+Sitemap: https://www.ortakconsultants.com/sitemap.xml
+
+User-agent: *
+Disallow : /
+# disallow crawling of directories
+Disallow : /css
+Disallow : /doc
+
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
